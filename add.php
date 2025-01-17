@@ -9,7 +9,7 @@
 	<br/><br/>
  
 	<div class="href-target" id="input-types">
-		<h1>Add New User Form</h1>
+		<h1>Add New User From</h1>
 
 	    <form action="add.php" method="post" name="form1">
 			<table width="25%" border="0">
